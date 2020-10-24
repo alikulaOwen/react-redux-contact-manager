@@ -7,7 +7,7 @@ import { Provider } from 'react-redux'
 import './style.css';
 
 const initialState = {
-  contacts: ["James Smith", "Thomas Anderson", "Bruce Wayne"] 
+  contacts: ["Owen Alikula", "Mary Ayesa", "Vera Sidika"] 
   };
 
 // Reducer function
